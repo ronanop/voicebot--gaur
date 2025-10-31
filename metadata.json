@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Sales Voice Bot",
+  "description": "A customer support voice bot powered by the Gemini 2.5 Native Audio (Live API) designed to help close sales through real-time, natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
